@@ -113,13 +113,3 @@ p {
 .singer img:hover {
   transform: scale(1.05);
 }
-
-@media screen and (max-width: 500px) {
-  .singer {
-    width: 400px;
-    height: 580px;
-  }
-  header {
-    height: 70vh;
-  }
-}
