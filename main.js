@@ -1,6 +1,6 @@
 window.onload = function () {
   let currentDate = new Date().getFullYear();
-  let startDate = new Date("January 1 2023 00:00:00");
+  let startDate = new Date("June 1 2023 00:00:00");
 
   function updateCountdown() {
     const current = new Date();
